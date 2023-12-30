@@ -1,0 +1,6 @@
+Test,Duration
+LinkedList Add,4580600
+Array Add,248800
+LinkedList AddAtIndex,119400
+LinkedList Remove,1600300
+Array Remove,25188400
